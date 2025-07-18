@@ -1,0 +1,6 @@
+opencv-python
+ultralytics
+pillow
+pandas
+scikit-learn
+xgboost
